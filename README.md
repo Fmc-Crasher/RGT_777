@@ -26,7 +26,7 @@
 <a href="https://youtube.com/c/Ghjah"><img title="Crasher" src="https://img.shields.io/badge/Youtube-cyberchekuthan/Adarsh_v3?color=black&style=for-the-badge&logo=youtube"></a>
 </p>
   <p align="center">
-<a href="http://wa.me/164"><img title="Crasher" src="https://img.shields.io/badge/twitter-cyberchekuthan/Adarsh_v3?color=black&style=for-the-badge&logo=twitter"></a>
+<a href="https://twitter.com/Itsemecrasher"><img title="Crasher" src="https://img.shields.io/badge/twitter-cyberchekuthan/Adarsh_v3?color=black&style=for-the-badge&logo=twitter"></a>
 </p>
 </div>
 <p align="center">
