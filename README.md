@@ -17,13 +17,13 @@
 <a href="http://wa.me/+919495944164"><img title="Crasher" src="https://img.shields.io/badge/whatsapp-cyberchekuthan/Adarsh_v3?color=black&style=for-the-badge&logo=whatsapp"></a>
 </p>
   <p align="center">
-<a href="http://wa.me/+"><img title="Crasher" src="https://img.shields.io/badge/Facebook-cyberchekuthan/Adarsh_v3?color=black&style=for-the-badge&logo=facebook"></a>
+<a href="https://www.facebook.com/adarshthevannoor.thevannoor"><img title="Crasher" src="https://img.shields.io/badge/Facebook-cyberchekuthan/Adarsh_v3?color=black&style=for-the-badge&logo=facebook"></a>
 </p>
   <p align="center">
-<a href="http://wa.me/+919495944164"><img title="Crasher" src="https://img.shields.io/badge/telegram-cyberchekuthan/Adarsh_v3?color=black&style=for-the-badge&logo=telegram"></a>
+<a href="https://t.me/FmcAdarsh"><img title="Crasher" src="https://img.shields.io/badge/telegram-cyberchekuthan/Adarsh_v3?color=black&style=for-the-badge&logo=telegram"></a>
 </p>
   <p align="center">
-<a href="http://wa.me/+91"><img title="Crasher" src="https://img.shields.io/badge/Youtube-cyberchekuthan/Adarsh_v3?color=black&style=for-the-badge&logo=youtube"></a>
+<a href="https://youtube.com/c/Ghjah"><img title="Crasher" src="https://img.shields.io/badge/Youtube-cyberchekuthan/Adarsh_v3?color=black&style=for-the-badge&logo=youtube"></a>
 </p>
   <p align="center">
 <a href="http://wa.me/164"><img title="Crasher" src="https://img.shields.io/badge/twitter-cyberchekuthan/Adarsh_v3?color=black&style=for-the-badge&logo=twitter"></a>
