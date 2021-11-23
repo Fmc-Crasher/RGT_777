@@ -2,13 +2,13 @@
 
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF0000&lines=ㅤ𝘼𝙇𝙇+𝙏𝙃𝙄𝙉𝙂𝙎+𝘼𝙍𝙀+𝙎𝙃𝙊𝙒+𝘾𝘼𝙎𝙀𝘿+🧬;𝙎𝙀𝙀𝙆+𝘼𝙉𝘿+𝙔𝙊𝙐+𝙎𝙃𝘼𝙇𝙇+𝙁𝙄𝙉𝘿+🥂;𝙀𝙑𝙀𝙍𝙔𝙏𝙃𝙄𝙉𝙂+/+𝙉𝙊𝙏𝙃𝙄𝙉𝙂+⚙️🕵🏻‍♂️🧬;𝙄𝙏𝙎+𝙅𝙐𝙎𝙏+𝘼+𝙈𝘼𝙏𝙏𝙀𝙍+𝙊𝙁+𝙏𝙄𝙈𝙀)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF0000&lines=ㅤ𝘼𝙇𝙇+𝙏𝙃𝙄𝙉𝙂𝙎+𝘼𝙍𝙀+𝙎𝙃𝙊𝙒+𝘾𝘼𝙎𝙀𝘿+🧬;𝙎𝙀𝙀𝙆+𝘼𝙉𝘿+𝙔𝙊𝙐+𝙎𝙃𝘼𝙇𝙇+𝙁𝙄𝙉𝘿+🥂;𝙀𝙑𝙀𝙍𝙔𝙏𝙃𝙄𝙉𝙂+/+𝙉𝙊𝙏𝙃𝙄𝙉𝙂+⚙️🧬;𝙄𝙏𝙎+𝙅𝙐𝙎𝙏+𝘼+𝙈𝘼𝙏𝙏𝙀𝙍+𝙊𝙁+𝙏𝙄𝙈𝙀)](https://git.io/typing-svg)
 
  </a>
 </p>
 <div align="center">
   <p align="center">
-<img src="https://i.imgur.com/V0nSAWg.jpg?cid=790b7611a48d56eec88e20cfedb2c8be6e08c0fde3f8fe72&rid=giphy.gif&ct=g.gif" alt="GIF" width="300" height="250"/>
+<img src="https://i.imgur.com/OBG1gg5.jpeg?cid=790b7611a48d56eec88e20cfedb2c8be6e08c0fde3f8fe72&rid=giphy.gif&ct=g.gif" alt="GIF" width="200" height="200"/>
 </p>
   <p align="center">
 <a href="https://github.com/Luciferking1"><img title="Author" src="https://img.shields.io/badge/Author-Amal-cyberchekuthan/Amalser_v2?color=blue&style=for-the-badge&logo=whatsapp"></a>
