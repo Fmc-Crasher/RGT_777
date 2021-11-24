@@ -56,11 +56,11 @@
 
 
 
-## SETUP
+## HOW TO MAKE A BOT ©? 
 <div align="center"> 
 
 
-## TAP YT LOGO TO FIND PASSWORD
+## ASENA BOT MAKING VIDEO
 
  [![ANY DOUBT REFER IT](https://www.linkpicture.com/q/YouTube-Logo-700x394.png)](https://youtu.be/EyfVigi2GUw)
 
