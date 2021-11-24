@@ -47,12 +47,11 @@
 </p>
 
 ##
-  <h3 align="center"> 𝙹𝙾𝙸𝙽 𝙾𝚄𝚁 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 𝙶𝚁𝙾𝚄𝙿:</h3>
 <p align="center">
-ʜᴇͧʀᷤᴍͤɪͬ† ⚚ ᴘɪⷡᴋⷪᴀⷮᴄᷤʜᴜ
+ᴍᷟᴜͧѕᷤɪͥᴄͨ ᴡᷱᴏͦʀͬʟᷝᴅͩ 𖣘
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/KVPJ8cQw4lR9zTTFPM8mbH" target="blank"><img align="center" src="https://i.imgur.com/jkvYZxr.jpeg" alt="kyrie.baran" height="150" width="200" /></a>
+  <a href="https://chat.whatsapp.com/GFSnPYyUKFp4JxdwGp36a0" target="blank"><img align="center" src="https://i.imgur.com/vRleIYI.jpeg" alt="kyrie.baran" height="200" width="200" /></a>
 </p>
 
 
