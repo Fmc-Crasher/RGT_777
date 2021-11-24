@@ -56,73 +56,15 @@
 
 
 
-## HOW TO MAKE A BOT ©? 
+## HOW TO MAKE A BOT? 
 <div align="center"> 
 
 
 ## ASENA BOT MAKING VIDEO
 
- [![ANY DOUBT REFER IT](https://www.linkpicture.com/q/YouTube-Logo-700x394.png)](https://youtu.be/EyfVigi2GUw)
+ [![ANY DOUBT REFER IT](https://i.imgur.com/r7qhYmz.jpeg)](https://youtu.be/EyfVigi2GUw)
 
 
-  ### Simple Method
-  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Fmc-Crasher/Spirex-v3)
-  
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
-  
-### The Hard Method
-```js
-GET QR
-$ apt install git
-$ apt install nodejs --fix-missing
-$ git clone https://github.com/Fmc-Crasher/Spirex-v3
-$ cd crasher
-$ npm install @adiwajshing/baileys
-$ npm install chalk
-$ node crasher.js
-```
-      
-```js
-SETUP
-$ git clone https://github.com/Fmc-Crasher/Spirex-v3
-$ cd crasher
-$ npm i
-$ node crasher.js
-```
-
-----
-
-  <p align="center">
-  <a href="httsp://github.com/farhan-dqz/JulieMwol">
-    
-<a href="https://github.com/farhan-dqz/followers">
-<img src="https://img.shields.io/github/repo-size/farhan-dqz/Julie-Mwol?color=green&label=Repo%20total%20size&style=plastic">
-<p align="center">
-<a href="https://github.com/farhan-dqz/followers"
-<img title="Followers" src="https://img.shields.io/github/followers/farhan-dqz?color=blue&style=flat-square"></a>
-<a href="https://github.com/farhan-dqz/JulieMwol/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/farhan-dqz/JulieMwol?color=blue&style=flat-square"></a>
-<a href="https://github.com/farhan-dqz/JulieMwol/network/members"><img title="Forks" src="https://img.shields.io/github/forks/farhan-dqz/JulieMwol?color=blue&style=flat-square"></a>
-<a href="https://github.com/farhan-dqz/JulieMwol/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/farhan-dqz/JulieMwol?label=Watchers&color=blue&style=flat-square"></a>
-</p>
-
-## 📢 Guide
-Click WA logo to Join Support Group 👇
-    <br>
-<br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/KVPJ8cQw4lR9zTTFPM8mbH)
-  <div align="center">
-       
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=farhan-dqz&repo=Julie-Mwol&theme=nightowl)](https://github.com/farhan-dqz/Julie-Mwol)
-  </div>
-    
-### ⚠️ Warning! 
-```
-Due to Userbot; Your WhatsApp account may be banned.
-This is an open source project, you are responsible for everything you do. 
-Absolutely, Asena executives do not accept responsibility.
-By establishing the Asena, you are deemed to have accepted these responsibilities.
-```
 
 ## 𝐂𝐑𝐄𝐃𝐈𝐓𝐒
   <div align="center">
