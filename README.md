@@ -30,7 +30,7 @@
 </p>
 </div>
 <p align="center">
-SPECIAL THANKS TO 𝐀𝐁𝐑𝐔 & 𝐌𝐀𝐓𝐇𝐄𝐖𝐒
+𝐆𝐑𝐎𝐔𝐏𝐒 𝐀𝐍𝐃 𝐆𝐈𝐓𝐒
     <br>
        | © |
         𝐌𝐀²𝐃 |
@@ -40,10 +40,19 @@ SPECIAL THANKS TO 𝐀𝐁𝐑𝐔 & 𝐌𝐀𝐓𝐇𝐄𝐖𝐒
 ##
   <h3 align="center"> 𝙹𝙾𝙸𝙽 𝙾𝚄𝚁 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 𝙶𝚁𝙾𝚄𝙿:</h3>
 <p align="center">
-TAP THE ICON AND JOIN ʜᴇͧʀᷤᴍͤɪͬ† ⚚ ᴘɪⷡᴋⷪᴀⷮᴄᷤʜᴜ
+ʜᴇͧʀᷤᴍͤɪͬ† ⚚ ᴘɪⷡᴋⷪᴀⷮᴄᷤʜᴜ
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/KVPJ8cQw4lR9zTTFPM8mbH" target="blank"><img align="center" src="https://i.imgur.com/jkvYZxr.jpeg" alt="kyrie.baran" height="200" width="300" /></a>
+  <a href="https://chat.whatsapp.com/KVPJ8cQw4lR9zTTFPM8mbH" target="blank"><img align="center" src="https://i.imgur.com/jkvYZxr.jpeg" alt="kyrie.baran" height="150" width="200" /></a>
+</p>
+
+##
+  <h3 align="center"> 𝙹𝙾𝙸𝙽 𝙾𝚄𝚁 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 𝙶𝚁𝙾𝚄𝙿:</h3>
+<p align="center">
+ʜᴇͧʀᷤᴍͤɪͬ† ⚚ ᴘɪⷡᴋⷪᴀⷮᴄᷤʜᴜ
+    <br>
+<br>
+  <a href="https://chat.whatsapp.com/KVPJ8cQw4lR9zTTFPM8mbH" target="blank"><img align="center" src="https://i.imgur.com/jkvYZxr.jpeg" alt="kyrie.baran" height="150" width="200" /></a>
 </p>
 
 
