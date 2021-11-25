@@ -88,7 +88,6 @@ Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |
   </div>
     
 
-
 ## License
 This project is protected by `GNU General Public Licence v3.0` license.
 
