@@ -64,7 +64,16 @@
 
  [![ANY DOUBT REFER IT](https://i.imgur.com/r7qhYmz.jpeg)](https://youtu.be/EyfVigi2GUw)
 
+</p>
 
+##
+<p align="center">
+𝙎𝙋𝙄𝙍𝙀𝙓 𝗩-𝟯 𝙊𝙁𝙁𝙄𝘾𝙄𝘼𝙇
+    <br>
+<br>
+  <a href="https://github.com/Fmc-Crasher/Spirex-v3" target="blank"><img align="center" src="https://i.imgur.com/GsZaQKm.jpeg" alt="kyrie.baran" height="200" width="200" /></a>
+</p>
+𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟 𝗚𝗜𝗧 𝗧𝗔𝗣 𝗜𝗠𝗔𝗚𝗘 
 
 ## 𝐂𝐑𝐄𝐃𝐈𝐓𝐒
   <div align="center">
