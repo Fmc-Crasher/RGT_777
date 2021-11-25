@@ -31,7 +31,7 @@
 </div>
 <p align="center">
   <p align="center">
-<a href="https://twitter.com/Itsemecrasher"><img title="Crasher" src="https://img.shields.io/badge/ALL GITS-cyberchekuthan/Adarsh_v3?color=black&style=for-the-badge&logo=github"></a>
+<a href="https://itsmecrasher.wordpress.com/"><img title="Crasher" src="https://img.shields.io/badge/ALL GITS-cyberchekuthan/Adarsh_v3?color=black&style=for-the-badge&logo=github"></a>
 </p>
 𝐆𝐑𝐎𝐔𝐏𝐒 𝐀𝐍𝐃 𝐆𝐈𝐓𝐒
     <br>
