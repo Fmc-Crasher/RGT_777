@@ -65,7 +65,7 @@
 
 ## DEPLOY BOT ON KOYEB
 
- [![ANY DOUBT REFER IT](https://i.imgur.com/r7qhYmz.jpeg)](https://t.me/crashxhermit/19)
+ [![ANY DOUBT REFER IT](https://i.imgur.com/UEzJexd.jpeg)](https://t.me/crashxhermit/19)
 
 </p>
 
