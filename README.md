@@ -20,7 +20,7 @@
 <a href="https://www.facebook.com/adarshthevannoor.thevannoor"><img title="Crasher" src="https://img.shields.io/badge/Facebook-cyberchekuthan/Adarsh_v3?color=black&style=for-the-badge&logo=facebook"></a>
 </p>
   <p align="center">
-<a href="https://t.me/FmcAdarsh"><img title="Crasher" src="https://img.shields.io/badge/telegram-cyberchekuthan/Adarsh_v3?color=black&style=for-the-badge&logo=telegram"></a>
+<a href="https://t.me/ADARSH_1596"><img title="Crasher" src="https://img.shields.io/badge/telegram-cyberchekuthan/Adarsh_v3?color=black&style=for-the-badge&logo=telegram"></a>
 </p>
   <p align="center">
 <a href="https://youtube.com/c/Ghjah"><img title="Crasher" src="https://img.shields.io/badge/Youtube-cyberchekuthan/Adarsh_v3?color=black&style=for-the-badge&logo=youtube"></a>
