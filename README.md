@@ -54,7 +54,7 @@
 𝛭𝑈𝑆𝛪𝐶 ✘ 𝑆𝑇𝛥𝑇𝑈𝑆 𝛨𝑈𝐵
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/DJGOKZmeLz9I6yRbvSm3VS" target="blank"><img align="center" src="https://i.imgur.com/vRleIYI.jpeg" alt="kyrie.baran" height="200" width="200" /></a>
+  <a href="https://chat.whatsapp.com/DJGOKZmeLz9I6yRbvSm3VS" target="blank"><img align="center" src="https://i.imgur.com/1tlwOTW.jpeg" alt="kyrie.baran" height="200" width="200" /></a>
 </p>
 
 
