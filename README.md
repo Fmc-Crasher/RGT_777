@@ -46,15 +46,15 @@
 ʜᴇͧʀᷤᴍͤɪͬ† ⚚ ᴘɪⷡᴋⷪᴀⷮᴄᷤʜᴜ
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/KVPJ8cQw4lR9zTTFPM8mbH" target="blank"><img align="center" src="https://i.imgur.com/jkvYZxr.jpeg" alt="kyrie.baran" height="150" width="200" /></a>
+  <a href="https://chat.whatsapp.com/DTBAfUqajb8Jr51RUNFd03" target="blank"><img align="center" src="https://i.imgur.com/jkvYZxr.jpeg" alt="kyrie.baran" height="150" width="200" /></a>
 </p>
 
 ##
 <p align="center">
-ᴍᷟᴜͧѕᷤɪͥᴄͨ ᴡᷱᴏͦʀͬʟᷝᴅͩ 𖣘
+𝛭𝑈𝑆𝛪𝐶 ✘ 𝑆𝑇𝛥𝑇𝑈𝑆 𝛨𝑈𝐵
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/GFSnPYyUKFp4JxdwGp36a0" target="blank"><img align="center" src="https://i.imgur.com/vRleIYI.jpeg" alt="kyrie.baran" height="200" width="200" /></a>
+  <a href="https://chat.whatsapp.com/DJGOKZmeLz9I6yRbvSm3VS" target="blank"><img align="center" src="https://i.imgur.com/vRleIYI.jpeg" alt="kyrie.baran" height="200" width="200" /></a>
 </p>
 
 
@@ -63,9 +63,9 @@
 <div align="center"> 
 
 
-## ASENA BOT MAKING VIDEO
+## DEPLOY BOT ON KOYEB
 
- [![ANY DOUBT REFER IT](https://i.imgur.com/r7qhYmz.jpeg)](https://youtu.be/EyfVigi2GUw)
+ [![ANY DOUBT REFER IT](https://i.imgur.com/r7qhYmz.jpeg)](https://t.me/crashxhermit/19)
 
 </p>
 
